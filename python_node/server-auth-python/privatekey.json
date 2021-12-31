@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smart-bridge-336705",
+  "private_key_id": "58e7a51190cc300352ba31567b1ff09e89de6887",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDBtpjmwQ9czTPT\n50QqtK9WZUeZrrwuj0+tcV8JENUBI5hpIzDyW/1nCZL7qlK1ksN96RXWPiZ11BbP\ntaRLSoq9FLTzP6mui9shvsgoNUDEP4soa8kqJ7gOtLPOM+Vlx4ffFOTEosc9fr8n\nvEgFmHwGBbq8ZnP6fscQcYzTF5uXI3UzaYT0kA1I1ANEJTI6s0ZTKgEQEZGsSvbq\nxtupD5C7k6NqL3twPj3Q33Fj1E8Ui9tx7JO5gVRMPfajczvjpzmG/HVVjYrXvaqM\nTLAz7nF91JXCAreG8kLFFLJDO2VCnXLykXTnJx77POlh2gTrdQ+EjbgLFlUVhqKf\nrMa1t4n3AgMBAAECggEAJ4Uzw5wuoK3CvaAokZfkT7mA9pMmFE+rn0SKcYSMGFvl\nO8nwsflfhPZ4lLyGfEHRfW4gxOFQImjfMIgr2Sp/jJzdX+UknpYs4kEUf9OBf6hB\nIUGAPIf27pUiO9btnaqsBzCxjYZyJJMnt5kbjnyyDN59XvN+BOR5g1rPMr/Vv+si\nkMouDoCDpdJyAF9Sx+PcWzIblGpX8mKeMfY1bdq/trBGgp9srM8+c+PBb0/0jbVJ\nyHmVGVTDIXDzkB6k++E/sHLAdbapKz04JKaYnT5LJFyiYh1c+ZkPbB85pn9h6eJJ\nnuK+d9q8YMSABxwjWIcHJ5Z/s3hxz95WNx44TITvLQKBgQDm624p1Od0huNGdBBr\nLozGIQpqnW7YmcBGVa8nhmOzp5mO1Tj2hmm4xXcuoSV3K4RPSdEtMVM1K6PVmz89\ns2kVpSKI7TXtASq+vqeTEi8XkRx2do0xIbHc8aObFZcDcb3D9i3P6hLnrrsJqqW+\nFMm4ytrU6bAGrVXEmv9oiqyu/QKBgQDWwKr9rNDUmn8dgbyMA6ptB2hvchdntso1\nCYjfNF52R+50X9n5toJY0DOwABG1p2Dz7SXGzYgrPkcb8n8VgjIHUj48Aqb2YjjU\nMq/NV2ECKcNRfhGHrdhnB1hvHU81w5UH3uzXqvb5gzsQYl80TSuR4G3xuvjSCLkT\nJDaESNSBAwKBgEvYzIhk69k0bPY5LSNnWMnDFH7MUxpF9gekITHkTF84D5IAqwMe\nRx9vjKP+PiYUXxMD9fbYGrJ+MQP6SB1mDoATi3JaJ7o/BeE9EiGWeW1ONoEak2mt\n3ZPqsog/4Sg6ddAlzgpaofcDR1/3cxUqEs/loVcJos2upVs8ZePamLmpAoGBAKF7\nPxiBWoaDphIJ/D1MhFp3t5AVuoPCb0pyYPl155IJhMT9Tmr3Ugx2gmdVpftyYPUK\n3d0fr8TUj6P0NJt3yya2MRXu6J1cPl9RveAqVEfMH5KnuYbMsmzGmTj0URucdfP1\nLSL+67ezdjZbwjsRzDFlEUcz0OYeqQw7rsLKAQEBAoGAOmvxnzvJSdbJ9yT0bniC\nukcUxOBYr1RjufKyZFF0n63N12gHgzP8fLRLwAogBcdsFb3mUQLhQ/hbF271g9c4\nYIhfxlucUbC6uNCb1GycwqIYQjpGVe+DC/+vJFWFLBkrXV6C6z7Q7INM1JYu2Wrk\nw/AIgRB3L9XcYe+K2wveMN4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-earth-engine@smart-bridge-336705.iam.gserviceaccount.com",
+  "client_id": "113216858715934420290",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-earth-engine%40smart-bridge-336705.iam.gserviceaccount.com"
+}
